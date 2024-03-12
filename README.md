@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Howard Steven</h1>
 <h3 align="center">I am an enthusiastic developer and programmer that is passionate about using technology to solve issues and have a positive influence. I am prepared to go off on a journey of ongoing learning and exploration in the ever changing field of software development since I have a strong foundation in computer engineering and an unwavering drive for innovation.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
