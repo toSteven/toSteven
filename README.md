@@ -59,7 +59,7 @@
     height="40"
     alt="gmail logo"
   />
-  <h4 align="left">tostevenhoward@gmail.com</h4>
+  <h4 align="left" style="display: inline-block; margin-left: 10px;">tostevenhoward@gmail.com</h4>
 </div>
 
 
