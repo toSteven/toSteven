@@ -52,14 +52,14 @@
 
 ###
 
-<div style="display: flex; align-items: center;">
+<div align="space-between">
   <img
     src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
     width="52"
     height="40"
     alt="gmail logo"
   />
-  <h4 align="left">tostevenhoward@gmail.com</h4>
+  <h4>tostevenhoward@gmail.com</h4>
 </div>
 
 
