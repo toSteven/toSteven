@@ -53,7 +53,7 @@
 
 ###
 
-<h2 align="left">📫 Contact me</h2>
+<h2 align="left">Contact me</h2>
 
 ###
 
