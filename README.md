@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Howard Steven, a Junior ASP.NET Core Blazor Front-End Developer. <br>I specialize in building user-friendly and responsive web applications using ASP.NET Core and Blazor. <br>I'm passionate about continuous learning, innovative problem-solving, and contributing to the development community. 
+Hello, I'm Howard Steven, a Junior ASP.NET Core Blazor Front-End Developer. I specialize in building user-friendly and responsive web applications, and integrating data using ASP.NET Core and Blazor. I'm passionate about continuous learning, innovative problem-solving, and contributing to the development community.
 
 
 ## 🌐 Socials:
